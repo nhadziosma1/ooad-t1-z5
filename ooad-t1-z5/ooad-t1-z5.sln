@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ooad-t1-z5", "ooad-t1-z5\ooad-t1-z5.csproj", "{F645F9C0-0B78-47F1-A6EE-6516E1987CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F645F9C0-0B78-47F1-A6EE-6516E1987CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F645F9C0-0B78-47F1-A6EE-6516E1987CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F645F9C0-0B78-47F1-A6EE-6516E1987CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F645F9C0-0B78-47F1-A6EE-6516E1987CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1079FD4-54D1-474C-B66E-0B2689C1D612}
+	EndGlobalSection
+EndGlobal
